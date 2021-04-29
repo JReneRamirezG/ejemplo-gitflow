@@ -4,6 +4,6 @@ import java.time.Instant;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Hola mundo! " + Instant.now());
+		System.out.println("¡Hola mundo! " + Instant.now());
 	}
 }
